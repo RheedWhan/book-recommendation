@@ -13,10 +13,11 @@ def recommend(book_name):
     return recommended_books
         
 
-loaded_model = pickle.load(open('C:/Users/bittu.p/Desktop/practice/Book Recommendation/books.pkl' , 'rb'))
+loaded_model = pickle.load(open(r'C:\Users\Ojo Ridwan\Downloads\archive (13)\books.pkl' , 'rb'))
 model = pd.DataFrame(loaded_model)
 
-similarity = pickle.load(open('C:/Users/bittu.p/Desktop/practice/Book Recommendation/similarity.pkl' , 'rb'))
+similarity = pickle.load(open(r'C:\Users\Ojo Ridwan\Downloads\archive (13)\similarity.pkl', 'rb'))
+
 
 st.title('Books Recommender System')
 
