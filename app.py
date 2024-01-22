@@ -19,7 +19,7 @@ model = pd.DataFrame(loaded_model)
 similarity = pickle.load(open(r'C:\Users\Ojo Ridwan\Downloads\archive (13)\similarity.pkl', 'rb'))
 
 
-st.title('Books Recommender System')
+st.title('Books Recommendation System')
 
 selected_books_name = st.selectbox('Books', model.index.values)
 
