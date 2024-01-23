@@ -28,11 +28,3 @@ if st.button('Recommend'):
     Recommendations = recommend(selected_books_name)
     for i in Recommendations:
         st.write(i)
-    
-
-
-        
-        
-    
-
-
