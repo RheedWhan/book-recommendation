@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project focuses on creating a Book Recommendation System using machine learning algorithms. The system suggests similar books to users based on their interests. Recommender systems have become integral in various online platforms, from e-commerce to streaming services.
+This project focuses on creating a Book Recommendation System using machine learning algorithm. The system suggests similar books to users based on their interests. Recommender systems have become integral in various online platforms, from e-commerce to streaming services.
 
 ## Dataset
 
