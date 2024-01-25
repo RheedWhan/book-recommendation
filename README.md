@@ -50,5 +50,5 @@ The book recommendation system is deployed using [Streamlit](https://streamlit.i
 
 ## Conclusion
 
-This project successfully builds a reliable book recommendation system using unsupervised learning techniques. Contributors are encouraged to explore the dataset further and share insights in the comments.
+This project successfully builds a reliable book recommendation system using supervised learning techniques. Contributors are encouraged to explore the dataset further and share insights in the comments.
 
