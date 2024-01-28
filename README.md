@@ -14,9 +14,9 @@ The dataset includes information on users, books identified by ISBN, and book ra
 
 ## Visuals
 
-- **Bar Graph:** Ratings distribution on books.
-- **Line Plot:** Relationship between the year of publication and book ratings.
-- **Correlation Plot and Pair Plot:** Explore relationships in the dataset.
+- **Bar Graph:** Ratings distribution on books
+- **Line Plot:** Relationship between the year of publication and book ratings
+- **Correlation Plot and Pair Plot:** Explore relationships in the dataset
 
 ## Functionality
 
